@@ -1,6 +1,6 @@
 # Intro
-src-no-context folder is the 1st version.\
-src folder is the updated version which implement the props drilling problem of the 1st version by using context API
+src-no-context is the 1st version.\
+src is the updated version which implement the props drilling problem of the 1st version by using context API
 
 # Getting Started with Create React App
 
